@@ -1,0 +1,142 @@
+h3 {
+    color: white;
+    margin-left: 5px;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+.icono {
+    width: 25px;
+    height: 25px;
+    margin-left: 100px;
+    margin-top: -5px;
+}
+.my-nav {
+    position: absolute;
+    width: 100%;
+    z-index: 999;
+    background-color: none;
+}
+.my-carousel {
+    margin-top: -80px;
+}
+.div1 {
+    background-color: black;
+}
+.pline {
+    color: #17a2b8 ;
+    margin-bottom: 50px;
+}
+.p1 {
+    border-style: solid;
+    border-color: #17a2b8;
+    background-color: #17a2b8;
+    color: white;
+    text-align: center;
+    padding: 2px;
+    width: 400px;
+}
+*  {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+@media all and (max-width: 500px)
+{
+    .texto {
+        max-width: 500px;
+        color: white;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 8px;
+        font-size: 0.5rem;    
+        line-height: 1.333333334;
+        margin-bottom: 20px;
+        margin-bottom: 2rem;
+        margin-right: 25px;
+        text-align: none;
+    }
+    .p1 {
+        max-width: 400px;
+        border-style: solid;
+        border-color: #17a2b8;
+        background-color: #17a2b8;
+        color: white;
+        text-align: center;
+        padding: 2px;
+        width: 150px;
+    }
+    td i {
+        color: white;
+        margin-right: 0px;
+        padding: 0px;
+    }
+    .h3 {
+        color: white;
+        font-family: 'Open Sans', sans-serif;
+        margin-left: 25px;
+        margin-right: 10px;
+        margin-top: 5px;
+        padding: 15px;
+    }
+    
+   
+}
+.texto {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    font-size: 1.5rem;    
+    line-height: 1.333333334;
+    margin-bottom: 20px;
+    margin-bottom: 2rem;
+    margin-right: 25px;
+    text-align: none;
+}
+.three-columns {
+    
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+}
+.card-body {
+    background-color: #17a2b8;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+.card-text {
+    margin-top: 15px;
+}
+h2 {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 20px;
+}
+footer {
+    background:  #17a2b8;
+    width: 100%;
+    height: 80px;
+}
+.h3 {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 300px;
+    margin-right: 700px;
+    margin-top: 50px;
+    padding: 15px;
+}
+td i {
+    color: white;
+    margin-right: 15px;
+    padding: 15px;
+}
+button {
+    margin-top: 100px;
+}
+.contacto {
+    text-align: center;
+    padding: 150px;
+    background: white;
+    margin-bottom: 50px;
+}
